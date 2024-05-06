@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HistogramBarw": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
